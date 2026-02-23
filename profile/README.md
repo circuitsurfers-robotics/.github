@@ -59,9 +59,9 @@ Throughout the season, we:
 This repository may include:
 
  - 📐 CAD files
- - 
- - 💻 Robot code
 
+ - 💻 Robot code
+   
  - 📸 Media and season highlights
 
 # 🌊 Ride the Wave
