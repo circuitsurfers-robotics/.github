@@ -1,6 +1,6 @@
-# 🌊🤖 Welcome to Circuit Surfers!
+# 🌊🤖 Welcome to the Circuit Surfers repository!
 
-Welcome to the official repository of Circuit Surfers, a high school VEX V5 Robotics team based in Fremont, California! We are a passionate group of innovators, builders, programmers, and problem-solvers who ride the wave of technology and push the limits of robotics design.
+Welcome to the official repository/orginization of Circuit Surfers, a high school VEX V5 Robotics team based in Fremont, California! We are a passionate group of innovators, builders, programmers, and problem-solvers who ride the wave of technology and push the limits of robotics design.
 
 # 🚀 About Us
 
